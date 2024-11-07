@@ -68,11 +68,15 @@ For running volume bot , subwallets are needed indeed
 You can send sol for swaping in sub wallet
 Minimum Deposit Fee to SubWallet is 0.005 sol
 
+Bot charge 10% fee of distribute amount
+
 https://github.com/user-attachments/assets/10d04563-5654-4181-a578-8599466fee6a
 
 ### 5.Distribute
 
 In some case , wallet balance can be empty for running bot
+
+Bot charge 10% fee of distribute amount
 
 https://github.com/user-attachments/assets/9511300d-8ce1-48bf-8619-c0acb5a4b002
 
