@@ -39,7 +39,7 @@ Deposit function is used for transfering sol to bot wallet
 - pay fees on subwallet for gather sol
 - gather sol from subwallet
 
-#### 2 ways for deposit
+#### 2 Ways for deposit
 
 Many people are hesitating connecting wallet on site
 So , I recommand 2 ways of deposit
@@ -60,14 +60,37 @@ https://github.com/user-attachments/assets/84b81d89-9bf2-4f73-880f-2f75faa9f49b
 Otherwise other bots , you can withdraw any amount of sol from your bot wallet
 It doesn't require wallet sign
 
+![image](https://github.com/user-attachments/assets/a070894f-e195-44b0-bac8-75aaf85cf896)
+
 ### 4.Add SubWallets & Distribute
 
 For running volume bot , subwallets are needed indeed
 You can send sol for swaping in sub wallet
 Minimum Deposit Fee to SubWallet is 0.005 sol
 
-![image](https://github.com/user-attachments/assets/5adcf17c-305b-443f-ac07-21110dfee0ec)
+https://github.com/user-attachments/assets/10d04563-5654-4181-a578-8599466fee6a
 
+### 5.Distribute
+
+In some case , wallet balance can be empty for running bot
+
+https://github.com/user-attachments/assets/9511300d-8ce1-48bf-8619-c0acb5a4b002
+
+### 6.Gather
+
+You can gather sol in subwallets to bot main wallet
+
+![image](https://github.com/user-attachments/assets/23e23725-e5b7-49ce-b289-b485fef59ee3)
+
+### 7.Gather from specifc Sub Wallet
+
+https://github.com/user-attachments/assets/b19ab304-9ccb-42c2-ba89-9e781e0ccbac
+
+### 8.Running Bot
+
+https://github.com/user-attachments/assets/90ff716c-0688-4e07-b5a2-9ef061d62609
+
+https://github.com/user-attachments/assets/ca4068e7-be9f-4b75-978e-a2c8928490a5
 
 ### Supported Dex
 
@@ -80,7 +103,7 @@ Here is available swap list
 | 1 | Saber | SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ |
 | 2 | StepN | Dooar9JkhdZ7J3LHN3A7YCuoGRUggXhQaG4kijfLGU2j |
 | 3 | Whirlpool | whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc |
-| 4| Guacswap | Gswppe6ERWKpUTXvRPfXdzHhiCyJvLadVvXGfdpBqcE1 |
+| 4 | Guacswap | Gswppe6ERWKpUTXvRPfXdzHhiCyJvLadVvXGfdpBqcE1 |
 | 5 | Openbook | srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX |
 | 6 | Stabble Weighted Swap | swapFpHZwjELNnjvThjajtiVmkz3yPQEHjLtka2fwHW |
 | 7 | Saber (Decimals) | DecZY86MU5Gj7kppfUCEmd4LbXXuyZH1yHaP2NTqdiZB |
